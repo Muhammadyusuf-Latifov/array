@@ -132,6 +132,13 @@
   //   console.log(kvadrat([1, 4, 3, 2, 7]));
 }
 {
+  //  m - 2
+  // function mrName(arr) {
+  //   return arr.map((i) => "Mr." + i);
+  // }
+  // console.log(mrName(["john", "akmal"]));
+}
+{
   //  m - 3
   //   function toq(arr) {
   //     return arr.filter((i) => i % 2 === 1);
